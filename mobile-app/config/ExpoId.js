@@ -1,1 +1,1 @@
-module.exports.ExpoId = '';
+module.exports.ExpoId = '2ad0a8e0-3798-402b-aa2e-698852c6bc2b';
