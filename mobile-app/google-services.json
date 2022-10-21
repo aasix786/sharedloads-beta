@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "321442694927",
+    "project_id": "sharedloads-366115",
+    "storage_bucket": "sharedloads-366115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321442694927:android:29025a568069f0f647a07a",
+        "android_client_info": {
+          "package_name": "com.sharedloads.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321442694927-50f0epl5c334p4jigsdhoaclma5c58ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgs-JzDFqQll69C_GvXUjFHxC72scro0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321442694927-50f0epl5c334p4jigsdhoaclma5c58ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321442694927-bdog47a7329nu3ch9dgb27o8egrg93v1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sharedloads.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
