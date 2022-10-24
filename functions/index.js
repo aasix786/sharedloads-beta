@@ -508,6 +508,8 @@ exports.request_email_otp = functions.https.onRequest(async (request, response) 
             subject: language.verify_otp,
             html: `<h1>${otp} ${language.otp_sms}</h1>`
         };
+        console.log("mailOptions",mailOptions)
+        console.log("mailOptions",mailOptions)
         transporter.sendMail(mailOptions,async (error, data) => {
             if (error) {
                 console.log(error);

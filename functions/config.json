@@ -4,7 +4,7 @@
 	"app_identifier": "com.sharedloads.app",
 	"ios_app_version": "1.0.0",
 	"android_app_version": "100",
-	"facebookAppId": "sharedloads-366115",
+	"facebookAppId": "505324634797629",
 	"facebookClientToken": "a65531db8f897674642b580def6f281b",
 	"firebaseProjectId": "sharedloads-366115",
 	"googleApiKeys": {
@@ -18,12 +18,12 @@
 	"admin_email": "jasonhammer917@gmail.com",
 	"codecanyon_purchase_code": "45dadafa-c12e-4191-bccd-72fa9b48b6c9",
 	"smtpDetails": {
-		"host": "smtp-relay.sendinblue.com",
+		"host": "smtp.ethereal.email",
 		"port": 587,
 		"secure": false,
 		"auth": {
-			"user": "l191824@lhr.nu.edu.pk",
-			"pass": "zakRC6HPBnI5bsm0"
+			"user": "danyka.romaguera@ethereal.email",
+			"pass": "cT4N3UqUpXehBF4Aej"
 		}
 	},
 	"paymentMethods": {
